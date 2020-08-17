@@ -39,6 +39,6 @@ React-based Google Books Search app. This SPA (Single Page Application) uses [`r
 
 ### Live site
 
-* deployed: "https://secret-stream-06395.herokuapp.com"
+* 
 
 
